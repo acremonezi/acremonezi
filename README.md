@@ -4,7 +4,7 @@ Thanks for being here.
 
 - :basketball: **My job is my playground**.
 - 🌱 I’m currently having so much fun by learning Computer Engineering at [UNIVESP](https://univesp.br). **Thank you so much!**
-- :evergreen_tree: My past playgrounds were with Physics, Electrical Engineering and MBA at [UNICAMP](https://www.unicamp.br), [FGV](https://fgv.br) and [BABSON](https://babson.edu).
+- :evergreen_tree: My first playgrounds were with Physics, Electrical Engineering and MBA at [UNICAMP](https://www.unicamp.br), [FGV](https://fgv.br) and [BABSON](https://babson.edu).
 - 📫 You are welcome, you can reach me out directly on the whatsapp channel at the link bellow.
 
 Best regards,
