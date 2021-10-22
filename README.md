@@ -11,6 +11,6 @@ Cheers,
 
 Alcides
 
-[![My Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519992407898)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519992407898)
 
-[![You are the visitors](https://visitor-badge.glitch.me/badge?page_id=acremonezi.visitor-badge)](https://github.com/acremonezi)
+[![visitor](https://visitor-badge.glitch.me/badge?page_id=acremonezi.visitor-badge)](https://github.com/acremonezi)
