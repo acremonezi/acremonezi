@@ -7,6 +7,7 @@ Thanks for being here.
 - :evergreen_tree: My first backgounds were with Physics, Electrical Engineering and MBA at [UNICAMP](https://www.unicamp.br), [FGV](https://fgv.br) and [BABSON](https://babson.edu).
 - 📫 If you wish, you can contact me directly through my WhatsApp channel using the button below.
 
+Thank you very much!
 Best regards,
 
 Alcides
