@@ -3,7 +3,7 @@
 Thanks for being here.
 
 - :basketball: **My job is my playground**. Everything I learn is to improve and expand the boundaries of my playground.
-- 🌱 I’m currently having so much fun by learning Computer Engineering at [UNIVESP](https://univesp.br). **Thank you so much!**
+- 🌱 I’m currently having so much fun by learning **Computer Engineering** at [UNIVESP](https://univesp.br). **Thank you so much!**
 - :evergreen_tree: My first backgounds were with Physics, Electrical Engineering and MBA at [UNICAMP](https://www.unicamp.br), [FGV](https://fgv.br) and [BABSON](https://babson.edu).
 - 📫 If you wish, you can contact me directly through my WhatsApp channel using the button below.
 
