@@ -15,3 +15,9 @@ Alcides
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519992407898)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=acremonezi.visitor-badge)](https://github.com/acremonezi)
+
+<div>
+  <a href="https://github.com/acremonezi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acremonezi&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acremonezi&layout=compact&langs_count=16&theme=omni"/>
+</div>
