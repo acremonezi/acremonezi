@@ -22,5 +22,3 @@ Alcides
          <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acremonezi&layout=compact&langs_count=10"/>
      </a>
 </div>
-
-[![Alcides's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=acremonezi)](https://github.com/acremonezi)
