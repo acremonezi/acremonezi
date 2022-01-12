@@ -18,6 +18,9 @@ Alcides
 
 <div>
   <a href="https://github.com/acremonezi">
-  <img src="https://github-readme-stats.vercel.app/api?username=acremonezi&show_icons=true&include_all_commits=true&count_private=true"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acremonezi&langs_count=50"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=acremonezi&show_icons=true&include_all_commits=true&count_private=true"/><br>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acremonezi&langs_count=10"/>
+    
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acremonezi)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
 </div>
