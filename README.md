@@ -24,7 +24,7 @@ Alcides
      </a>
 </div>
 
-### Languages and Tools I often use:
+### Languages, Frameworks and Tools I often use:
 
 0. **Most used Linux Distros**
      1. Fedora Desktop with GNOME
@@ -46,7 +46,7 @@ Alcides
      1. Facebook Ads
      2. Facebook API 
 
-3. **Programming: Languages, Frameworks and Tools**
+3. **Programming**
      1.  Node-RED
      2.  Phyton
      3.  Django
