@@ -57,11 +57,15 @@ Alcides
      4. SQLite
  
 5. **Electronics**
-     1. Arduino
-     2. STM32
-     3. PlatformIO
-     4. Fritzing
-     5. LabVIEW
+     1. Arduino, Mega, Nano, Uno
+     2. Arduino Nano RF
+     3. Raspberry Pi
+     4. Raspberry Pi Pico
+     5. STM32, Black Pill, Blue Pill
+     6. ESP32, ESP12, ESP8266
+     7. PlatformIO
+     8. Fritzing
+     9. LabVIEW
 
 6. **3D Printing and Modeling**
      1. Ultimaker Cura
