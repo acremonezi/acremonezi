@@ -71,5 +71,5 @@ Alcides
 7. **Others**
      1. SendGrid API
      2. HubSpot API
-     3. Mautic
+     3. Mautic API
      4. Wordpress
