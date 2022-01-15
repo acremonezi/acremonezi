@@ -62,6 +62,7 @@ Alcides
      11.  pgAdmin
      12.  MongoDB Compass
      13.  Postman
+     14.  Git
 
 4. **Infrastructures**
      1.  Docker
