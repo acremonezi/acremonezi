@@ -48,17 +48,18 @@ Alcides
 
 3. **Programming**
      1.  Node-RED
-     2.  Phyton
-     3.  Django
-     4.  Visual Studio Code
-     5.  PyCharm
-     6.  Draw.io
-     7.  DB Browser for SQLite
-     8.  MySQL Workbench
-     9.  DataGrip
-     10.  pgAdmin
-     11.  MongoDB Compass
-     12.  Postman
+     2.  HTML, CSS and Bootstrap
+     3.  Phyton
+     4.  Django
+     5.  Visual Studio Code
+     6.  PyCharm
+     7.  Draw.io
+     8.  DB Browser for SQLite
+     9.  MySQL Workbench
+     10.  DataGrip
+     11.  pgAdmin
+     12.  MongoDB Compass
+     13.  Postman
 
 4. **Infrastructures**
      1.  Docker
