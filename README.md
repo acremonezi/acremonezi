@@ -76,7 +76,7 @@ Alcides
      11. Oscilloscope
      12. Waveform and Function Generators
      13. Soldering Station
-     14. Symmetric Dc Power Supply
+     14. Symmetric DC Power Supply
 
 7. **3D Printing and Modeling**
      1. Ultimaker Cura
