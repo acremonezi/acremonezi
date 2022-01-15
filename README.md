@@ -74,6 +74,7 @@ Alcides
      9.  Traefik
      10.  NGINX
      11.  Cloudflare
+     12.  SendGrid API
 
 5. **Databases**
      1. MySQL
@@ -109,9 +110,8 @@ Alcides
      3. SolidEdge
  
 9. **Others**
-     1. SendGrid API
-     2. HubSpot API
-     3. vTiger API
-     4. Mautic API
-     5. Wordpress
-     6. Home Assistant
+     1. HubSpot API
+     2. vTiger API
+     3. Mautic API
+     4. Wordpress
+     5. Home Assistant
