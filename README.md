@@ -107,6 +107,7 @@ Alcides
 9. **Others**
      1. SendGrid API
      2. HubSpot API
-     3. Mautic API
-     4. Wordpress
-     5. Home Assistant
+     3. vTiger API
+     4. Mautic API
+     5. Wordpress
+     6. Home Assistant
