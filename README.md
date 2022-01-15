@@ -50,12 +50,14 @@ Alcides
      2.  Phyton
      3.  Django
      4.  Visual Studio Code
-     5.  Draw.io
-     6.  DB Browser for SQLite
-     7.  MySQL Workbench
-     8.  DataGrip
-     9.  pgAdmin
-     10.  MongoDb Compass
+     5.  PyCharm
+     6.  Draw.io
+     7.  DB Browser for SQLite
+     8.  MySQL Workbench
+     9.  DataGrip
+     10.  pgAdmin
+     11.  MongoDb Compass
+     12.  Postman
 
 4. **Software Infrastructure**
      1.  Docker
@@ -63,6 +65,7 @@ Alcides
      3.  VMware
      4.  Proxmox
      5.  Linode
+     6.  Oracle VM VirtualBox
 
 5. **Databases**
      1. MySQL
