@@ -57,7 +57,7 @@ Alcides
      8.  MySQL Workbench
      9.  DataGrip
      10.  pgAdmin
-     11.  MongoDb Compass
+     11.  MongoDB Compass
      12.  Postman
 
 4. **Software Infrastructure**
