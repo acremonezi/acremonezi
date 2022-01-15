@@ -128,3 +128,7 @@ Alcides
      1. Scratch
      2. micro:bit
      3. Raspberry Pi Sense HAT
+
+### Recommended Links:
+
+0. [Deep Dive Into Modern Web Development](https://fullstackopen.com/)
