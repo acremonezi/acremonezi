@@ -30,7 +30,7 @@ Alcides
 <br>
 <br>
 
-## Languages, Frameworks, Tools and etc I often use:
+## Languages, Frameworks, Tools and etc that I use often as well as the ones I am learning:
 
 0. **Linux Distros**
      1. Fedora Desktop with GNOME
