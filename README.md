@@ -73,6 +73,10 @@ Alcides
      8. MSP430
      9. Fritzing
      10. LabVIEW
+     11. Oscilloscope
+     12. Waveform and Function Generators
+     13. Soldering Station
+     14. Symmetric Dc Power Supply
 
 7. **3D Printing and Modeling**
      1. Ultimaker Cura
