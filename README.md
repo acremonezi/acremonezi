@@ -116,7 +116,6 @@ Alcides
      1. Ultimaker Cura
      2. FreeCad
      3. SolidEdge
-     4. Creality Ender 3 v2 32 Bits
  
 9. **Others**
      1. HubSpot API
