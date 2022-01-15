@@ -50,13 +50,19 @@ Alcides
      2.  Phyton
      3.  Django
 
-4. **Databases**
+4. **Software Infrastructure**
+     1.  Docker
+     2.  Kubernetes
+     3.  VMware
+     4.  Proxmox
+
+5. **Databases**
      1. MySQL
      2. MongoDB
      3. PostgreSQL
      4. SQLite
  
-5. **Electronics**
+6. **Electronics**
      1. Arduino, Mega, Nano, Uno
      2. Arduino Nano RF
      3. Raspberry Pi
@@ -67,12 +73,12 @@ Alcides
      8. Fritzing
      9. LabVIEW
 
-6. **3D Printing and Modeling**
+7. **3D Printing and Modeling**
      1. Ultimaker Cura
      2. FreeCad
      3. SolidEdge
  
-7. **Others**
+8. **Others**
      1. SendGrid API
      2. HubSpot API
      3. Mautic API
