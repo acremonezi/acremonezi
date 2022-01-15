@@ -26,6 +26,12 @@ Alcides
 
 ### Languages and Tools I often use:
 
+0. **Most used Linux Distros**
+     1. Fedora
+     2. Ubuntu
+     3. Debian
+     4. CentOS
+
 1. **Google Tools**
      1. Google Ads
      2. Google Tag Manager
