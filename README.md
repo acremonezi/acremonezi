@@ -28,7 +28,7 @@ Alcides
 
 
 
-### Languages, Frameworks, Tools and etc I often use:
+## Languages, Frameworks, Tools and etc I often use:
 
 0. **Linux Distros**
      1. Fedora Desktop with GNOME
@@ -135,6 +135,6 @@ Alcides
 
 
 
-### Recommended Links:
+## Recommended Links:
 
 0. [Deep Dive Into Modern Web Development](https://fullstackopen.com/)
