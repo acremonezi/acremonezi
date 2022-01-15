@@ -141,4 +141,5 @@ Alcides
 
 ## Recommended Links:
 
-0. [Deep Dive Into Modern Web Development](https://fullstackopen.com/)
+0. Things that were important to me and may be important to you too.
+     1. [Deep Dive Into Modern Web Development](https://fullstackopen.com/)
