@@ -91,22 +91,24 @@ Alcides
      1. Grafana
      2. Metabase
  
-7. **Electronics**
+7. **Electronics and IoT**
      1. PlatformIO
-     2. Arduino, Mega, Nano, Uno
-     3. Arduino Nano RF
-     4. Raspberry Pi
-     5. Raspberry Pi Pico
-     6. STM32, Black Pill, Blue Pill
-     7. ESP32, ESP12, ESP8266. ESP01
-     8. MSP430
-     9. Fritzing PCB Design
-     10. LabVIEW
-     11. Multimeter
-     12. Oscilloscope
-     13. Waveform and Function Generators
-     14. Soldering Station
-     15. Symmetric DC Power Supply
+     2. Arduino
+     3. MicroPython
+     4. Arduino Mega, Nano and Uno
+     5. Arduino Nano RF
+     6. Raspberry Pi
+     7. Raspberry Pi Pico
+     8. STM32, Black Pill and Blue Pill
+     9. ESP32, ESP12, ESP8266 and ESP01
+     10. MSP430
+     11. Fritzing PCB Design
+     12. LabVIEW
+     13. Multimeter
+     14. Oscilloscope
+     15. Waveform and Function Generators
+     16. Soldering Station
+     17. Symmetric DC Power Supply
 
 8. **3D Printing and Modeling**
      1. Ultimaker Cura
