@@ -78,6 +78,7 @@ Alcides
      11.  Cloudflare
      12.  SendGrid API
      13.  Microsoft Active Directory
+     14.  OpenVPN
 
 5. **Databases**
      1. MySQL
@@ -118,3 +119,8 @@ Alcides
      3. Mautic API
      4. Wordpress
      5. Home Assistant
+  
+ 10. **With my Kids**
+     1. Scratch
+     2. micro:bit
+     3. Raspberry Pi Sense HAT
