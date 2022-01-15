@@ -63,14 +63,14 @@ Alcides
      4. SQLite
  
 6. **Electronics**
-     1. Arduino, Mega, Nano, Uno
-     2. Arduino Nano RF
-     3. Raspberry Pi
-     4. Raspberry Pi Pico
-     5. STM32, Black Pill, Blue Pill
-     6. ESP32, ESP12, ESP8266. ESP01
-     7. MSP430
-     8. PlatformIO
+     1. PlatformIO
+     2. Arduino, Mega, Nano, Uno
+     3. Arduino Nano RF
+     4. Raspberry Pi
+     5. Raspberry Pi Pico
+     6. STM32, Black Pill, Blue Pill
+     7. ESP32, ESP12, ESP8266. ESP01
+     8. MSP430
      9. Fritzing
      10. LabVIEW
 
