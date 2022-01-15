@@ -24,7 +24,7 @@ Alcides
      </a>
 </div>
 
-### Languages, Frameworks and Tools I often use:
+### Languages, Frameworks, Tools and etc I often use:
 
 0. **Most used Linux Distros**
      1. Fedora Desktop with GNOME
