@@ -49,12 +49,20 @@ Alcides
      1.  Node-RED
      2.  Phyton
      3.  Django
+     4.  Visual Studio Code
+     5.  Draw.io
+     6.  DB Browser for SQLite
+     7.  MySQL Workbench
+     8.  DataGrip
+     9.  pgAdmin
+     10.  MongoDb Compass
 
 4. **Software Infrastructure**
      1.  Docker
      2.  Kubernetes
      3.  VMware
      4.  Proxmox
+     5.  Linode
 
 5. **Databases**
      1. MySQL
@@ -89,4 +97,4 @@ Alcides
      2. HubSpot API
      3. Mautic API
      4. Wordpress
-     5. Linode
+     5. Home Assistant
