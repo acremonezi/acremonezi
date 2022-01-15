@@ -41,6 +41,7 @@ Alcides
      5. Google Data Studio
      6. Google Cloud Platform
      7. Google API
+     8. Google GSuite
 
 2. **Facebok**
      1. Facebook Ads
@@ -72,6 +73,7 @@ Alcides
      8.  Gunicorn
      9.  Traefik
      10.  NGINX
+     11.  Cloudflare
 
 5. **Databases**
      1. MySQL
