@@ -27,10 +27,11 @@ Alcides
 ### Languages and Tools I often use:
 
 0. **Most used Linux Distros**
-     1. Fedora
-     2. Ubuntu
-     3. Debian
-     4. CentOS
+     1. Fedora Desktop with GNOME
+     2. Ubuntu Desktop with GNOME
+     3. Ubuntu Server
+     4. Debian Server
+     5. CentOS Server
 
 1. **Google Tools**
      1. Google Ads
