@@ -75,6 +75,7 @@ Alcides
      10.  NGINX
      11.  Cloudflare
      12.  SendGrid API
+     13.  Microsoft Active Directory
 
 5. **Databases**
      1. MySQL
