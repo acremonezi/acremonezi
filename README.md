@@ -50,6 +50,18 @@ Alcides
      3. PostgreSQL
      4. SQLite
  
- 6. Others
+6. Electronics
+     1. Arduino
+     2. STM32
+     3. PlatformIO
+     4. Fritzing
+     5. LabVIEW
+
+7. 3D Printing and Modeling
+     1. Ultimaker Cura
+     2. FreeCad
+     3. Solid Edge
+ 
+ 7. Others
      1. SendGrid API
      2. HubSpot API
