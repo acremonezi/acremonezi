@@ -80,6 +80,7 @@ Alcides
      2. MongoDB
      3. PostgreSQL
      4. SQLite
+     5. Redis
 
 6. **Analytics, BI and Dashboards**
      1. Grafana
