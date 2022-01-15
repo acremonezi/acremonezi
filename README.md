@@ -16,6 +16,8 @@ Alcides
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=acremonezi.visitor-badge)](https://github.com/acremonezi)
 
+
+
 ### My GitHub Statistics:
 <div>
      <a href="https://github.com/acremonezi">
@@ -23,6 +25,8 @@ Alcides
          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acremonezi&layout=compact&langs_count=10"/>
      </a>
 </div>
+
+
 
 ### Languages, Frameworks, Tools and etc I often use:
 
