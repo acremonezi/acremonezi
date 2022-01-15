@@ -68,10 +68,11 @@ Alcides
      3. Raspberry Pi
      4. Raspberry Pi Pico
      5. STM32, Black Pill, Blue Pill
-     6. ESP32, ESP12, ESP8266
-     7. PlatformIO
-     8. Fritzing
-     9. LabVIEW
+     6. ESP32, ESP12, ESP8266. ESP01
+     7. MSP430
+     8. PlatformIO
+     9. Fritzing
+     10. LabVIEW
 
 7. **3D Printing and Modeling**
      1. Ultimaker Cura
