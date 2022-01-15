@@ -26,14 +26,14 @@ Alcides
 
 ### Languages, Frameworks, Tools and etc I often use:
 
-0. **Most used Linux Distros**
+0. **Linux Distros**
      1. Fedora Desktop with GNOME
      2. Ubuntu Desktop with GNOME
      3. Ubuntu Server
      4. Debian Server
      5. CentOS Server
 
-1. **Google Tools**
+1. **Google**
      1. Google Ads
      2. Google Tag Manager
      3. Google Analytics
@@ -42,7 +42,7 @@ Alcides
      6. Google Cloud Platform
      7. Google API
 
-2. **Facebok Tools**
+2. **Facebok**
      1. Facebook Ads
      2. Facebook API 
 
@@ -60,13 +60,17 @@ Alcides
      11.  MongoDB Compass
      12.  Postman
 
-4. **Software Infrastructure**
+4. **Infrastructures**
      1.  Docker
      2.  Kubernetes
      3.  VMware
      4.  Proxmox
      5.  Linode
      6.  Oracle VM VirtualBox
+     7.  Apache
+     8.  Gunicorn
+     9.  Traefik
+     10.  NGINX
 
 5. **Databases**
      1. MySQL
@@ -83,7 +87,7 @@ Alcides
      6. STM32, Black Pill, Blue Pill
      7. ESP32, ESP12, ESP8266. ESP01
      8. MSP430
-     9. Fritzing
+     9. Fritzing PCB Design
      10. LabVIEW
      11. Multimeter
      12. Oscilloscope
