@@ -26,7 +26,7 @@ Alcides
 
 ### Languages and Tools I often use:
 
-1. Google Tools
+1. **Google Tools
      1. Google Ads
      2. Google Tag Manager
      3. Google Analytics
@@ -35,33 +35,35 @@ Alcides
      6. Google Cloud Platform
      7. Google API
 
-2. Facebok Tools
+2. **Facebok Tools
      1. Facebook Ads
      2. Facebook API 
 
-4. Programming
+4. **Programming
      1.  Node-RED
      2.  Phyton
      3.  Django
 
-5. Databases
+5. **Databases
      1. MySQL
      2. MongoDB
      3. PostgreSQL
      4. SQLite
  
-6. Electronics
+6. **Electronics
      1. Arduino
      2. STM32
      3. PlatformIO
      4. Fritzing
      5. LabVIEW
 
-7. 3D Printing and Modeling
+7. **3D Printing and Modeling
      1. Ultimaker Cura
      2. FreeCad
-     3. Solid Edge
+     3. SolidEdge
  
- 7. Others
+8. **Others
      1. SendGrid API
      2. HubSpot API
+     3. Mautic
+     4. Wordpress
