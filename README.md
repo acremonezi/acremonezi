@@ -142,7 +142,6 @@ The ones I used to use, the ones I am currently using and also The ones I am cur
 <br>
 <br>
 
-## Recommended Links:
-
-0. Things that were important to me and may be important to you too.
-     1. [Deep Dive Into Modern Web Development](https://fullstackopen.com/)
+## Links:
+Things that were important to me and may be important to you too.
+0. [Deep Dive Into Modern Web Development](https://fullstackopen.com/)
