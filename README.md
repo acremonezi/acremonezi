@@ -25,8 +25,31 @@ Alcides
 </div>
 
 ### Languages and Tools I often use:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+
+1. Google Tools
+     1. Google Ads
+     2. Google Tag Manager
+     3. Google Analytics
+     4. Google Optimize
+     5. Google Data Studio
+     6. Google Cloud Platform
+     7. Google API
+
+2. Facebok Tools
+     1. Facebook Ads
+     2. Facebook API 
+
+4. Programming
+     1.  Node-RED
+     2.  Phyton
+     3.  Django
+
+5. Databases
+     1. MySQL
+     2. MongoDB
+     3. PostgreSQL
+     4. SQLite
+ 
+ 6. Others
+     1. SendGrid API
+     2. HubSpot API
