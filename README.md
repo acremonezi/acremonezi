@@ -42,6 +42,7 @@ Alcides
      6. Google Cloud Platform
      7. Google API
      8. Google GSuite
+     9. Google SSO
 
 2. **Facebok**
      1. Facebook Ads
