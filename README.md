@@ -143,5 +143,6 @@ The ones I used to use, the ones I am currently using and also The ones I am cur
 <br>
 
 ## Links:
-Things that were important to me and may be important to you too.
+Things that were important to me and may be also important to you.
+
 0. [Deep Dive Into Modern Web Development](https://fullstackopen.com/)
