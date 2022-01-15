@@ -77,8 +77,12 @@ Alcides
      2. MongoDB
      3. PostgreSQL
      4. SQLite
+
+6. **Analytics, BI and Dashboards**
+     1. Grafana
+     2. Metabase
  
-6. **Electronics**
+7. **Electronics**
      1. PlatformIO
      2. Arduino, Mega, Nano, Uno
      3. Arduino Nano RF
@@ -95,12 +99,12 @@ Alcides
      14. Soldering Station
      15. Symmetric DC Power Supply
 
-7. **3D Printing and Modeling**
+8. **3D Printing and Modeling**
      1. Ultimaker Cura
      2. FreeCad
      3. SolidEdge
  
-8. **Others**
+9. **Others**
      1. SendGrid API
      2. HubSpot API
      3. Mautic API
